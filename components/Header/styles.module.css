@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 0.85rem;
+    width: 100%;
+    padding-top: 45px;
+}
+
+.btn{
+    width:122px;
+    height:26px;
+    background:#A776D4;
+    color:#ffffff;
+    border-radius:13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
