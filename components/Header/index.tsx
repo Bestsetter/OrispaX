@@ -8,7 +8,15 @@ export default function Header() {
     <>
         <div className={style.header}>
             <Image
+                className={style.full_logo}
                 src="/Logo_full.svg"
+                alt="OrispaX"
+                width={150}
+                height={50}
+            />
+            <Image
+                className={style.logo}
+                src="/Logo_simple.svg"
                 alt="OrispaX"
                 width={150}
                 height={50}

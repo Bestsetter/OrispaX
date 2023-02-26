@@ -14,6 +14,11 @@
   padding: 4rem 0;
 }
 
+.center img{
+  width: 100%;
+  height: auto;
+}
+
 .font {
   font-weight: bold;
   background: linear-gradient(129.39deg, #A776D4 29.78%, #7ED2DD 45.28%, #DFDBBD 60.78%);
